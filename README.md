@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @caio! tudo bem com você?
+- 👀 I’m interested  no momento em solidificar minha base de programação e estudar mais sobre o mercado de  dados (B.I)
+- 💞️ I’m looking to collaborate com empresas ou pessoas que possam crescer juntos
+- 📫 How to reach me - meu e-mail cayolelisdf@gmail.com  /meu whatsapp- 61 9 9861-9062.
+- 📫-Atualmente estou cursando Engenharia de software na UnB/FGA
