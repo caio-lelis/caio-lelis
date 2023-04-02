@@ -1,11 +1,11 @@
 # Olá, me chamo Caio Lelis! 
-## Bem vindo ao meu perfil 👋
+##  Bem vindo ao meu perfil 👋
 
-- 🔭 Atualmente estou cursando o 3°sem. de Engenharia de Software na UnB(Universidade de Brasília)
+- 🔭 Atualmente estou cursando o 4°sem. de Engenharia de Software na UnB(Universidade de Brasília)
 - 🌱 Atualmente estou aprendendo assuntos relacionados a Desenvolvimento Web e Data Science
 - 👯 Estou procurando colaborar com equipes no qual possa haver troca de conhecimentos e informações
 
-## Ferramentas e Tecnologias quais tenho prévio conhecimento:
+##  Ferramentas e Tecnologias quais tenho prévio conhecimento:
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
