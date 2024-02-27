@@ -1,7 +1,7 @@
 # Olá, me chamo Caio Lelis! 
 ##  Bem vindo ao meu perfil 👋
 
-- 🔭 Atualmente estou cursando o 4°sem. de Engenharia de Software na UnB(Universidade de Brasília)
+- 🔭 Atualmente estou cursando o 6°sem. de Engenharia de Software na UnB(Universidade de Brasília)
 - 🌱 Atualmente estou aprendendo assuntos relacionados a Desenvolvimento Web e Data Science
 - 👯 Estou procurando colaborar com equipes no qual possa haver troca de conhecimentos e informações
 
